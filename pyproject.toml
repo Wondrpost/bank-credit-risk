@@ -1,0 +1,17 @@
+[project]
+name = "bank-credit-risk"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "pandas>=3.0.6",
+    "psycopg2-binary>=2.9.13",
+    "python-dotenv>=1.2.4",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "shap>=0.52.0",
+    "sqlalchemy>=2.1.3",
+    "xgboost>=3.4.1",
+]
